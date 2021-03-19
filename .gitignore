@@ -1,0 +1,6 @@
+#Filses to be ignored
+
+#Intelij to be specific
+
+/.idea/
+*.iml
